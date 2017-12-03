@@ -1,0 +1,6 @@
+print ("Please enter 3 numbers")
+x = float(input())
+y = float(input())
+z = float(input())
+total = (x + y + z)
+print (total)
